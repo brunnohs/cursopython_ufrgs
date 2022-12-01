@@ -19,4 +19,5 @@ Novembro["C2"] = 200
 Novembro["C3"] = 200
 Novembro["C4"] = 200
 Novembro["D2"] = Novembro["B2"].value - (Novembro["C2"].value + Novembro["C3"].value + Novembro["C4"].value) 
+
 orcamento.save("orcamento.xlsx")
