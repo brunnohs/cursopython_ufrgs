@@ -3,6 +3,15 @@
 
 # In[1]:
 
+"""
+
+Projeto Final da Extensão - Introdução ao Python
+
+Descrição: Trata-se de um projeto que transfere os arquivos xlsx. e docx. presentes na pasta "Python" para as subpastas "documentos" (caso seja docx.) e "planilhas" (caso seja xlsx.)
+Autor: Brunno Henrique Sibin
+Data: 02/12/2022
+Versão: 0.0.1
+"""
 
 import os
 import shutil
